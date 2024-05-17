@@ -14,14 +14,16 @@ Installation
 To install Student_PC_experta_system, follow these steps:
 
 Clone the repository:
-
 ```git clone [gh repo clone 0xnrous/Student_PC_experta_system](https://github.com/0xnrous/Student_PC_experta_system.git)```
+
+
 Navigate to the project directory:
-
 ```cd Student_PC_experta_system```
+
+
 Install the necessary dependencies:
-
 ```pip install -r requirements.txt```
-Run the application:
 
+
+Run the application:
 ```python tk-figma_v01.py```
