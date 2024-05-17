@@ -1,0 +1,3 @@
+experta==1.9.4
+# pip install -r requirements.txt
+# python3 tk_figma_V01.py
