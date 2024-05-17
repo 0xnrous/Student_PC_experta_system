@@ -26,4 +26,4 @@ Install the necessary dependencies:
 
 
 Run the application:
-```python tk-figma_v01.py```
+```python3 tk-figma_v01.py```
